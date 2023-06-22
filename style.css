@@ -1,0 +1,93 @@
+h1{
+  color: #00DFA2;
+}
+h2{
+  color: #2B2A4C;
+}
+h3{
+  color: #17594A;
+}
+.first{
+  background-color:grey;
+  text-align: center;
+  line-height: 2;
+}
+.geel{
+  margin-left: 900px;
+}
+.ari{
+  display: inline-block;
+  position: absolute;
+  right: 1000px;
+  bottom: 30%;
+
+}
+.sheeko{
+  margin-left: 600px;
+}
+.form{
+  background-color: #F97B22;
+  width: 30%;
+  margin: auto;
+  color: white;
+  padding: 5px;
+  border: 2px;
+}
+hr{
+  width: 30%;
+  border-style: dotted;
+  color: red;
+}
+.nav{
+  background-color: pink;
+  margin-top: 0;
+}
+.second{
+  background-color:#C38154;
+  text-align: center;
+  margin : 0;
+}
+.CODE{
+  float: right;
+  margin-right: 200px;
+}
+.skil{
+  margin-left: 420px;
+}
+.DATA{
+  float: left;
+  margin-left: 200px;
+}
+.data{
+  margin-right: 280px;
+}
+.third{
+  background-color: aqua;
+  margin-top: 0;
+  position: relative;
+  padding: 20px;
+text-align: center;
+
+}
+a{
+  text-decoration: none;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 10px;
+  background: #3498db;
+  padding: 8px;
+  text-decoration: none;
+  width:30%;
+  margin: auto;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+  cursor: col-resize;
+}
